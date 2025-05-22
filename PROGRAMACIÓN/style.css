@@ -1,0 +1,21 @@
+body {
+background-color: white ;
+}
+
+div {
+background-color: rgb(200, 229, 255);
+width: 280px;
+text-align: center;
+}
+
+
+section {
+    display: flex;
+    column-gap: 50px;
+}
+
+div img {
+    width: 160px;
+    height: 100px;
+    margin-top: 20px;
+}
